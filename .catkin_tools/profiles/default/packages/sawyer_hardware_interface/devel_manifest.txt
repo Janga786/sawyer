@@ -1,0 +1,4 @@
+sawyer_simulator/sawyer_hardware_interface
+/home/janga/sawyer_ws/devel/.private/sawyer_hardware_interface/share/sawyer_hardware_interface/cmake/sawyer_hardware_interfaceConfig.cmake /home/janga/sawyer_ws/devel/share/sawyer_hardware_interface/cmake/sawyer_hardware_interfaceConfig.cmake
+/home/janga/sawyer_ws/devel/.private/sawyer_hardware_interface/share/sawyer_hardware_interface/cmake/sawyer_hardware_interfaceConfig-version.cmake /home/janga/sawyer_ws/devel/share/sawyer_hardware_interface/cmake/sawyer_hardware_interfaceConfig-version.cmake
+/home/janga/sawyer_ws/devel/.private/sawyer_hardware_interface/lib/pkgconfig/sawyer_hardware_interface.pc /home/janga/sawyer_ws/devel/lib/pkgconfig/sawyer_hardware_interface.pc

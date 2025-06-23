@@ -1,0 +1,4 @@
+sawyer_robot/sawyer_description
+/home/janga/sawyer_ws/devel/.private/sawyer_description/share/sawyer_description/cmake/sawyer_descriptionConfig.cmake /home/janga/sawyer_ws/devel/share/sawyer_description/cmake/sawyer_descriptionConfig.cmake
+/home/janga/sawyer_ws/devel/.private/sawyer_description/share/sawyer_description/cmake/sawyer_descriptionConfig-version.cmake /home/janga/sawyer_ws/devel/share/sawyer_description/cmake/sawyer_descriptionConfig-version.cmake
+/home/janga/sawyer_ws/devel/.private/sawyer_description/lib/pkgconfig/sawyer_description.pc /home/janga/sawyer_ws/devel/lib/pkgconfig/sawyer_description.pc

@@ -1,0 +1,5 @@
+code_coverage
+/home/janga/sawyer_ws/devel/.private/code_coverage/share/code_coverage/cmake/code_coverageConfig.cmake /home/janga/sawyer_ws/devel/share/code_coverage/cmake/code_coverageConfig.cmake
+/home/janga/sawyer_ws/devel/.private/code_coverage/share/code_coverage/cmake/code_coverage-extras.cmake /home/janga/sawyer_ws/devel/share/code_coverage/cmake/code_coverage-extras.cmake
+/home/janga/sawyer_ws/devel/.private/code_coverage/share/code_coverage/cmake/code_coverageConfig-version.cmake /home/janga/sawyer_ws/devel/share/code_coverage/cmake/code_coverageConfig-version.cmake
+/home/janga/sawyer_ws/devel/.private/code_coverage/lib/pkgconfig/code_coverage.pc /home/janga/sawyer_ws/devel/lib/pkgconfig/code_coverage.pc

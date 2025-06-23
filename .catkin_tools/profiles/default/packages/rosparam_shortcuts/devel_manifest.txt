@@ -1,0 +1,6 @@
+rosparam_shortcuts
+/home/janga/sawyer_ws/devel/.private/rosparam_shortcuts/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig.cmake /home/janga/sawyer_ws/devel/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig.cmake
+/home/janga/sawyer_ws/devel/.private/rosparam_shortcuts/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig-version.cmake /home/janga/sawyer_ws/devel/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig-version.cmake
+/home/janga/sawyer_ws/devel/.private/rosparam_shortcuts/lib/librosparam_shortcuts.so /home/janga/sawyer_ws/devel/lib/librosparam_shortcuts.so
+/home/janga/sawyer_ws/devel/.private/rosparam_shortcuts/lib/rosparam_shortcuts/example /home/janga/sawyer_ws/devel/lib/rosparam_shortcuts/example
+/home/janga/sawyer_ws/devel/.private/rosparam_shortcuts/lib/pkgconfig/rosparam_shortcuts.pc /home/janga/sawyer_ws/devel/lib/pkgconfig/rosparam_shortcuts.pc

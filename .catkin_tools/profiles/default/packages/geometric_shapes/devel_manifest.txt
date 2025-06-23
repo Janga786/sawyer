@@ -1,0 +1,6 @@
+geometric_shapes
+/home/janga/sawyer_ws/devel/.private/geometric_shapes/share/geometric_shapes/cmake/geometric_shapesConfig.cmake /home/janga/sawyer_ws/devel/share/geometric_shapes/cmake/geometric_shapesConfig.cmake
+/home/janga/sawyer_ws/devel/.private/geometric_shapes/share/geometric_shapes/cmake/geometric_shapesConfig-version.cmake /home/janga/sawyer_ws/devel/share/geometric_shapes/cmake/geometric_shapesConfig-version.cmake
+/home/janga/sawyer_ws/devel/.private/geometric_shapes/lib/libgeometric_shapes.so.0.7.7 /home/janga/sawyer_ws/devel/lib/libgeometric_shapes.so.0.7.7
+/home/janga/sawyer_ws/devel/.private/geometric_shapes/lib/libgeometric_shapes.so /home/janga/sawyer_ws/devel/lib/libgeometric_shapes.so
+/home/janga/sawyer_ws/devel/.private/geometric_shapes/lib/pkgconfig/geometric_shapes.pc /home/janga/sawyer_ws/devel/lib/pkgconfig/geometric_shapes.pc

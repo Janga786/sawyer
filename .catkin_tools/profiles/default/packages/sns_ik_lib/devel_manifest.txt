@@ -1,0 +1,6 @@
+sns_ik/sns_ik_lib
+/home/janga/sawyer_ws/devel/.private/sns_ik_lib/share/sns_ik_lib/cmake/sns_ik_libConfig-version.cmake /home/janga/sawyer_ws/devel/share/sns_ik_lib/cmake/sns_ik_libConfig-version.cmake
+/home/janga/sawyer_ws/devel/.private/sns_ik_lib/share/sns_ik_lib/cmake/sns_ik_libConfig.cmake /home/janga/sawyer_ws/devel/share/sns_ik_lib/cmake/sns_ik_libConfig.cmake
+/home/janga/sawyer_ws/devel/.private/sns_ik_lib/lib/libsns_ik_test.so /home/janga/sawyer_ws/devel/lib/libsns_ik_test.so
+/home/janga/sawyer_ws/devel/.private/sns_ik_lib/lib/libsns_ik.so /home/janga/sawyer_ws/devel/lib/libsns_ik.so
+/home/janga/sawyer_ws/devel/.private/sns_ik_lib/lib/pkgconfig/sns_ik_lib.pc /home/janga/sawyer_ws/devel/lib/pkgconfig/sns_ik_lib.pc

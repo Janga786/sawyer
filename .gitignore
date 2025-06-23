@@ -1,0 +1,6 @@
+build/
+devel/
+logs/
+*.log
+__pycache__/
+*.pyc
